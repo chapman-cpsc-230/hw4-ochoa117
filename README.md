@@ -1,18 +1,18 @@
-# Function Exercises
+# HW4
 
  [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
 
-**Author:** _\<your name\>_
+**Author:** _\<William Ochoa\>_
 
-**Due date:** _\<date\>_
+**Due date:** _\<3/18/2016\>_
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+_\<This assignment prompts us to devise a series of codes using for loops. We also test functions using if statements.\>_
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+_\<I learned how to define functions as well as test those functions. I also learned to slice strings. I attempted to learn the uses of tuple and zip.\>_
 
 ## Honor Pledge
 
@@ -23,4 +23,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+_\<William Ochoa\>_
